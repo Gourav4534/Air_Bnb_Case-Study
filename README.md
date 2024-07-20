@@ -1,2 +1,2 @@
-# Air_Bnb_Case-Study
+# Case Study
 Gourav
